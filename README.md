@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohan Raj D
 ===================================================================================================================================
 
-An aspiring Software Tester
+An aspiring Software Engineer
 ------------------
 
-I am passionate in Software Testing and love to work with Java, SQL and HTML
+I am passionate in Software Development and love to work with Python, Java, SQL, and HTML
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mohanrajd16092001@gmail.com](mailto:mohanrajd16092001@gmail.com)
